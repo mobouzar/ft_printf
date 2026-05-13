@@ -39,4 +39,4 @@ gcc yourfile1.c yourfile2.c libftprintf.a -o prog
 
 # Contact or contribute
 
-If you want to contact me, or fix / improve this project, just send me a mail at mobouzar@student.1337.ma
+If you want to contact me, or fix / improve this project, just send me a mail at mohamedbouzargtoun@gmail.com
